@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "466701918274",
+    "firebase_url": "https://svfcmnotifyapp.firebaseio.com",
+    "project_id": "svfcmnotifyapp",
+    "storage_bucket": "svfcmnotifyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466701918274:android:857e4170f46e492b",
+        "android_client_info": {
+          "package_name": "fcm.svikas.com.sv_fcm_notify_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466701918274-h2bqqfs8uqvt1s3acghsk0is1vuvv974.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fcm.svikas.com.sv_fcm_notify_app",
+            "certificate_hash": "892ebf5b52940e4457d69471a020fda30d84646f"
+          }
+        },
+        {
+          "client_id": "466701918274-bcn58kvdslff2kerlca9ig2auknn9h3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAHLf2wyeoclA0XFKahmbN5KWtKHesb7M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466701918274-bcn58kvdslff2kerlca9ig2auknn9h3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
